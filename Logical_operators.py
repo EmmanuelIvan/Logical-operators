@@ -1,5 +1,3 @@
-#Veremos como se usan los operadores logicos y cual es su resultado
-
 #En el operado AND las dos condicones deben de ser positivas para que el resultado sea true
 print (5 > 2 and 9 < 11)
 
